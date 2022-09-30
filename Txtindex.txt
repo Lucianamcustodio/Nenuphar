@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+    <meta charset="UTF-8">
+    <!--Display inicial do site-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--nome do author-->
+    <meta name="author" content="Lucianamcustodio"/>
+    <!--Descrição do site-->
+    <title>Frontend Mentor | Product preview card component</title>
+    <!--adicionando icone na aba-->
+    <link rel="icon" type="image/png" sizes="32x32" href="../Imagens/nenuphar__1_-removebg-preview.png">
+    <!--Adicionando CSS-->
+    <link rel="stylesheet" type="text/css" href="Css.css"/>
+    <!--titulo da aba-->
+    <title>Frontend Mentors | Product View Owners </title>
+</head>
+<body>
+<header>
+    Entre ou cadastre-se
+    <p> MARCAS<br>FEMININOS<br>MASCULINOS<br>OUTLET<br>Buscar<br>Carrinho</p>
+</header>
+
+<main>
+    <p>Carrossel de produto.</p>
+</main>
+
+<footer>
+    <p>Suporte<br>Rastreie seus pedidos<br>Fale Conosco<br>Políticas de privacidade</p>
+   <div class="attribution">
+       <p>Desenvolvido por <a href="https://lucianamcustodio.github.io/" class="site">Luciana Custódio</a>.</p>
+       <p> Site para a disciplina de <a href="https://iftm.edu.br/uraparquetecnologico/cursos/graduacao-presencial/ads/" class="siteIFTM">Análise e Desenvolvimento de sistemas - IFTM</a>.</p>
+
+    </div>
+</footer>
+</body>
+</html>
